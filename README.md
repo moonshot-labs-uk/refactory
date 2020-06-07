@@ -1,3 +1,5 @@
+A fork of the awesome Quasar Framework which uses ReactJS instead of VueJS
+
 ![Quasar Framework logo](https://cdn.quasar.dev/logo/svg/quasar-logo-full-inline.svg)
 
 # Quasar Framework
